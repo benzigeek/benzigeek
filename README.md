@@ -5,8 +5,7 @@ const benzigeek = {
   "job": "Backend Web Developer & Devops Engineer",
   "languages": ["Typescript", "Javascript", "Python", "Go"],
   "databases": ["Postgresql", "Mongodb", "Rethink", "Redis", "Cassandra"],
-  "Technologies": ["React", "Angular", "Vue", "Docker", "Kubernetes"]
-}
+  "Technologies": ["Electron", "React Native", "React/Redux", "Angular", "Vue", "Docker", "k8s"]
 ```
 
 ![benzi's stats](https://github-readme-stats.vercel.app/api?username=benzigeek&theme=chartreuse-dark&show_icons=true)
