@@ -4,7 +4,8 @@ const benzigeek = {
   "pronouns": "He/Him",
   "job": "Backend Web Developer & Devops Engineer",
   "languages": ["Typescript", "Javascript", "Python", "Go"],
-  "databases": ["Postgresql", "Mongodb", "Rethink", "Redis"]
+  "databases": ["Postgresql", "Mongodb", "Rethink", "Redis", "Cassandra"],
+  "Technologies": ["React", "Angular", "Vue", "Docker", "Kubernetes"]
 }
 ```
 
