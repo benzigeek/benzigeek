@@ -1,4 +1,4 @@
-### Hey there, I'm Benzi <img src="https://i.imgur.com/gFFGEEV.gif" width="24">
+### Hey there, I'm Benzi <img src="https://i.imgur.com/zaAmapb.png" width="25">
 ```
 const benzigeek = {
   "pronouns": "He/Him",
