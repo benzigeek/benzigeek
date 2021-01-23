@@ -5,7 +5,7 @@ const benzigeek = {
   "job": "Backend Web Developer & Devops Engineer",
   "languages": ["Typescript", "Javascript", "Python", "Go"],
   "databases": ["Postgresql", "Mongodb", "Rethink", "Redis", "Cassandra"],
-  "technologies": ["Electron", "React Native", "React/Redux", "Angular", "Vue", "Docker", "k8s", "Express", "Flask"]
+  "technologies": ["Electron", "React Native", "React/Redux", "Angular", "Vue", "Docker", "k8s", "Express", "Flask", "Graphql"]
 }
 ```
 
