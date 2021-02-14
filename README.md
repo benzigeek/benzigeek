@@ -2,7 +2,7 @@
 ```
 const benzigeek = {
   "pronouns": "He/Him",
-  "job": "Backend Web Developer & Devops Engineer",
+  "job": "Backend Web Developer",
   "languages": ["Typescript", "Javascript", "Python", "Go"],
   "databases": ["Postgresql", "Mongodb", "Rethink", "Redis", "Cassandra"],
   "technologies": ["Electron", "React Native", "React/Redux", "Angular", "Vue", "Docker", "k8s", "Express", "Flask", "Graphql"]
