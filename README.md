@@ -9,4 +9,4 @@ const noxi = {
 }
 ```
 
-![benzi's stats](https://github-readme-stats.vercel.app/api?username=noxigeek&theme=chartreuse-dark&show_icons=true)
+![benzi's stats](https://github-readme-stats.vercel.app/api?username=benzigeek&theme=chartreuse-dark&show_icons=true)
