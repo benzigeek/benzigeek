@@ -1,6 +1,6 @@
-### Hey there, I'm Benzi <img src="https://i.imgur.com/zaAmapb.png" width="25">
+### Hey there, I'm Snail <img src="https://i.imgur.com/zaAmapb.png" width="25">
 ```
-const benzi = {
+const snail = {
   "pronouns": "He/Him",
   "job": "Fullstack Web Developer",
   "languages": ["Typescript", "Javascript", "Python", "Go"],
@@ -9,4 +9,4 @@ const benzi = {
 }
 ```
 
-![benzi's stats](https://github-readme-stats.vercel.app/api?username=benzigeek&theme=chartreuse-dark&show_icons=true)
+![benzi's stats](https://github-readme-stats.vercel.app/api?username=snailsgeek&theme=chartreuse-dark&show_icons=true)
